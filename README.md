@@ -30,6 +30,8 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
   ![Desktop](https://img.shields.io/badge/-Desktop-2C3E50?style=flat)
 - Conhecimentos em automação e Internet das Coisas (IoT) com Arduino.
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
+- Compilação de kernel para Android e criação de mods e drivers.
+  ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
 - Trabalho com servidores Linux para hospedagem e gerenciamento de aplicativos.
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat)
 
