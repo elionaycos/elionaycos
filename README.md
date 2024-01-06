@@ -49,8 +49,6 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
 
 ## 🌐 Redes Sociais
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/costa.elionay/)](https://www.instagram.com/costa.elionay/)
-- [LinkedIn](https://www.linkedin.com/in/elionaycosta/)
-- [Twitter](https://twitter.com/seu_usuario)
 
 ## Projetos Principais
 
