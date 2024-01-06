@@ -1,5 +1,5 @@
 <!-- Seu Nome -->
-# 👋 Olá, eu sou elionay Costa
+# 👋 Olá, eu sou [Seu Nome]
 
 Desenvolvedor apaixonado por código, inovação e tecnologia.
 
@@ -18,11 +18,11 @@ Desenvolvedor apaixonado por código, inovação e tecnologia.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elionaycos&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 ### Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elionaycos&layout=compact&theme=radical)
 
 ### Contagem Total de Repositórios por Linguagem
 
