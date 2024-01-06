@@ -1,5 +1,5 @@
 <!-- Seu Nome -->
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Elionay Costa
 
 Desenvolvedor apaixonado por código, inovação e tecnologia.
 
@@ -29,4 +29,4 @@ Desenvolvedor apaixonado por código, inovação e tecnologia.
 **Observação:** Utilize [GitHub Language Stats](https://github.com/IonicaBizau/github-languages-stats) para uma contagem precisa.
 
 ```bash
-github-languages-stats seu-usuario
+github-languages-stats elionaycos
