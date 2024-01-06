@@ -1,5 +1,5 @@
 <!-- Seu Nome -->
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou elionay Costa
 
 Desenvolvedor apaixonado por código, inovação e tecnologia.
 
@@ -8,17 +8,25 @@ Desenvolvedor apaixonado por código, inovação e tecnologia.
 ## 🚀 Tecnologias e Ferramentas
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/)
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)](https://flutter.dev/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)](https://dart.dev/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)](https://developer.android.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat)](https://www.linux.org/)
 
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
-## 🌐 Redes Sociais
+### Linguagens Mais Usadas
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/seu-usuario/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/seu_usuario)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
-<!-- Se quiser adicionar mais ícones ou seções, sinta-se à vontade! -->
+### Contagem Total de Repositórios por Linguagem
+
+**Observação:** Utilize [GitHub Language Stats](https://github.com/IonicaBizau/github-languages-stats) para uma contagem precisa.
+
+```bash
+github-languages-stats seu-usuario
