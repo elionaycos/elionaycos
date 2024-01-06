@@ -1,32 +1,52 @@
 <!-- Seu Nome -->
 # 👋 Olá, eu sou Elionay Costa
 
-Desenvolvedor apaixonado por código, inovação e tecnologia.
+Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=elionay&color=brightgreen)
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Habilidades e Tecnologias
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org/)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)](https://flutter.dev/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)](https://dart.dev/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)](https://developer.android.com/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat)](https://www.linux.org/)
+- Flutter para desenvolvimento de aplicações móveis multiplataforma.
+- HTML5, CSS3, e JavaScript para criação de interfaces web dinâmicas.
+- Node.js para desenvolvimento de servidores e aplicações backend.
+- Dart como linguagem de programação para aplicações frontend e backend.
+- Python para automação, análise de dados e desenvolvimento geral.
+- MySQL e MongoDB para gerenciamento de bancos de dados.
+- Desenvolvimento de APIs para integração entre sistemas.
+- Experiência em desenvolvimento de aplicativos para web, mobile e desktop.
+- Conhecimentos em automação e Internet das Coisas (IoT) com Arduino.
+- Trabalho com servidores Linux para hospedagem e gerenciamento de aplicativos.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elionaycos&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elionay&show_icons=true&count_private=true&theme=radical)
 
 ### Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elionaycos&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elionay&layout=compact&theme=radical)
 
-### Contagem Total de Repositórios por Linguagem
+### Distribuição de Linguagens nos Repositórios
 
-**Observação:** Utilize [GitHub Language Stats](https://github.com/IonicaBizau/github-languages-stats) para uma contagem precisa.
+![Distribuição de Linguagens](https://github-readme-stats.vercel.app/api/wakatime?username=elionay&theme=radical)
 
-```bash
-github-languages-stats elionaycos
+## 🌐 Redes Sociais
+
+- [Instagram](https://www.instagram.com/costa.elionay/)
+- [LinkedIn](https://www.linkedin.com/in/elionaycosta/)
+- [Twitter](https://twitter.com/seu_usuario)
+
+## Projetos Principais
+
+- [Meu App Incrível](https://github.com/elionay/meu-app-incrivel): Descrição curta do projeto.
+- [Projeto XYZ](https://github.com/elionay/projeto-xyz): Descrição curta do projeto.
+
+## Certificações e Cursos
+
+- Certificado em Desenvolvimento Flutter (Udemy)
+- Curso Avançado de Node.js (Coursera)
+
+## Contribuições para a Comunidade
+
+- Contribuições para o Projeto Open Source A (link para o repositório)
+- Organizador de meetups locais de tecnologia
