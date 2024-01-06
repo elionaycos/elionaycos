@@ -20,21 +20,19 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elionay&show_icons=true&count_private=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elionaycos&show_icons=true&count_private=true&theme=radical)
 
 ### Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elionay&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elionaycos&layout=compact&theme=radical)
 
 ### Distribuição de Linguagens nos Repositórios
 
-![Distribuição de Linguagens](https://github-readme-stats.vercel.app/api/wakatime?username=elionay&theme=radical)
+![Distribuição de Linguagens](https://github-readme-stats.vercel.app/api/wakatime?username=elionaycos&theme=radical)
 
 ## 🌐 Redes Sociais
 
 - [Instagram](https://www.instagram.com/costa.elionay/)
-- [LinkedIn](https://www.linkedin.com/in/elionaycosta/)
-- [Twitter](https://twitter.com/seu_usuario)
 
 ## Projetos Principais
 
