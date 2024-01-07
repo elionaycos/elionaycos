@@ -64,5 +64,3 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
 
 - Contribuições para o Projeto Open Source A (link para o repositório)
 - Organizador de meetups locais de tecnologia
-
-[![Tema](https://img.shields.io/badge/Tema-Laranja-e34c26?style=for-the-badge)](https://img.shields.io/badge/Tema-Laranja-e34c26?style=for-the-badge)
