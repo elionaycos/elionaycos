@@ -15,6 +15,10 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 - Node.js para desenvolvimento de servidores e aplicações backend.
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+- Docker para criação, implantação e execução de aplicativos em contêineres.
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+- Habilidades avançadas em scripting e automação com Bash.
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
 - Dart como linguagem de programação para aplicações frontend e backend.
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 - Python para automação, análise de dados e desenvolvimento geral.
